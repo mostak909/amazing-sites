@@ -1,18 +1,19 @@
 body {
     margin: 0px;
-    padding: 50px;
+    padding: 35px;
 }
 .contant {
-    padding: 70px;
+    padding: 50px;
 }
 .hader {
     padding: 60px;
 }
-.contant a {
+a {
     color: coral;
-    text-align: center;
+    
+    font-weight: 700;
 }
-h3 {
+p {
     text-align: center;
 }
 footer {
