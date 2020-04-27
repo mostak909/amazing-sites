@@ -2,8 +2,8 @@ body {
     margin: 0px;
     padding: 35px;
 }
-.bannar{
-    margin-top: 30px;
+.banner{
+    border: 1px solid gold;
 }
 .main{
     display: flex;
@@ -40,7 +40,7 @@ footer {
 }
 
 @media only screen and (max-width: 800px){
-   .main{
+    .main{
         display: unset;
     
     }
