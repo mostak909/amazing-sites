@@ -37,17 +37,18 @@ footer {
 }
 
 @media only screen and (max-width: 800px){
-    .main{
+   .main{
         display: unset;
     
     }
     .info{
-        margin-left: 100px;
         padding: 0;
         text-align: center;
+        width:100%;
     }
     .photo{
-        margin-left: 40px;
+        width:100%;
+        padding: 20px;
         
     }
 
