@@ -2,6 +2,9 @@ body {
     margin: 0px;
     padding: 35px;
 }
+.bannar{
+    margin-top: 30px;
+}
 .main{
     display: flex;
     padding: 30px;
