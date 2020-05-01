@@ -38,6 +38,9 @@ a {
 footer {
     text-align: center;
 }
+.info-btn{
+    margin-bottom: 20px;
+}
 
 @media only screen and (max-width: 800px){
     .main{
